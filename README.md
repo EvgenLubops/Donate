@@ -10,5 +10,5 @@ All funds raised go towards purchasing new smart home products for review.
 | ![TONCOIN](https://github.com/EvgenLubops/Donate/blob/main/img/ton_100.png "TONCOIN")  | ![USD Tether](https://github.com/EvgenLubops/Donate/blob/main/img/trc20_100.png "USD Tether") | ![BITCOIN](https://github.com/EvgenLubops/Donate/blob/main/img/bitcoin_100.png "BITCOIN") |
 | ------------ | ------------  |------------ |
 |  **TON**  |  **USDT**  |   **BTC**  |
-| **`UQBxu99K2A2lvdXMZFFsxfs09uHWb4ahFrVWisb6BBFWthm7`** |  **`TXKGRZHh1UQUCBfysjoTCpExVwXjCDAGYK`** | **`14SiAGAzEe1iUGf9FRfo8ZXMdbWTdb3RGx`** |
+|**`UQBxu99K2A2lvdXMZFFsxfs09uHWb4ahFrVWisb6BBFWthm7`**|**`TXKGRZHh1UQUCBfysjoTCpExVwXjCDAGYK`**|**`14SiAGAzEe1iUGf9FRfo8ZXMdbWTdb3RGx`**|
 
