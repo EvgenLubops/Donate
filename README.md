@@ -7,9 +7,6 @@
 # Help for the development and support of the project - China in the Smart Home - Evgen Lubops.
 All funds raised go towards purchasing new smart home products for review.
 
-| ![TONCOIN](https://github.com/EvgenLubops/Donate/blob/main/img/ton_100.png "TONCOIN")    **TON**  
-**`UQBxu99K2A2lvdXMZFFsxfs09uHWb4ahFrVWisb6BBFWthm7`**|
-
-| ![BITCOIN](https://github.com/EvgenLubops/Donate/blob/main/img/bitcoin_100.png "BITCOIN")   **BTC**  **`14SiAGAzEe1iUGf9FRfo8ZXMdbWTdb3RGx`**|
-
-| ![USD Tether](https://github.com/EvgenLubops/Donate/blob/main/img/trc20_100.png "USD Tether")  **USDT**  **`TXKGRZHh1UQUCBfysjoTCpExVwXjCDAGYK`**|
+![TONCOIN](https://github.com/EvgenLubops/Donate/blob/main/img/ton_100.png "TONCOIN")    **TON**  **`UQBxu99K2A2lvdXMZFFsxfs09uHWb4ahFrVWisb6BBFWthm7`**
+![BITCOIN](https://github.com/EvgenLubops/Donate/blob/main/img/bitcoin_100.png "BITCOIN")   **BTC**  **`14SiAGAzEe1iUGf9FRfo8ZXMdbWTdb3RGx`**
+![USD Tether](https://github.com/EvgenLubops/Donate/blob/main/img/trc20_100.png "USD Tether")  **USDT**  **`TXKGRZHh1UQUCBfysjoTCpExVwXjCDAGYK`**
